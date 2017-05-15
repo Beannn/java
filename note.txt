@@ -1,0 +1,2 @@
+1>  java中short约等于正负三万，int约等于正负三亿
+2>  java中默认的十进制数字为int型，所以如果超过int型的范围，如long，需要加入L或l
